@@ -19,3 +19,15 @@ Make sure you have the following software installed on your machine:
 
    ```bash
    git clone https://github.com/kalpayatri/react-job-board.git
+
+2. Navigate to the project directory:
+   
+   cd client
+
+3. Install dependencies:
+
+   npm install
+
+4. Run the Application
+   
+   npm run dev
